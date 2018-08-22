@@ -1,4 +1,5 @@
-function findMinAndRemoveSorted () {
+function findMinAndRemoveSorted (arr) {
+  let min;
   
 }
 
