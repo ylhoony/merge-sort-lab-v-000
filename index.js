@@ -1,5 +1,5 @@
 function findMinAndRemoveSorted (arr) {
-  let min = arr[0];
+  let min;
   
   
   
