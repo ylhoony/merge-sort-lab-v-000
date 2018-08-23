@@ -1,5 +1,5 @@
 function findMinAndRemoveSorted(arr) {
-  return array.shift();
+  return arr.shift();
 }
 
 function merge(firstArr, secondArr) {
