@@ -15,6 +15,6 @@ function merge(firstArr, secondArr) {
   return sorted.concat(firstArr).concat(secondArr)
 }
 
-function mergeSort() {
+function mergeSort(arr) {
   
 }
