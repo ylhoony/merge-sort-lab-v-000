@@ -2,11 +2,11 @@ function findMinAndRemoveSorted (arr) {
   let min;
   
   arr.forEach((num) => {
-    if (min === undefined || num <= min) {
+min    if (min === undefined || num <= min) {
       min = num
     })
   }
-  return min
+  return 
 }
 
 function merge(firstArr, secondArr) {
